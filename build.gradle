@@ -24,7 +24,7 @@ dependencies {
     implementation 'com.google.guava:guava:23.0'
 
     // Use JUnit test framework
-    testImplementation 'junit:junit:4.12'
+    api 'junit:junit:4.12'
 }
 
 // In this section you declare where to find the dependencies of your project
